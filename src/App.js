@@ -10,6 +10,7 @@ const Main = styled("div")`
 const DropDownContainer = styled("div")`
   width: 10.5em;
   margin: 0 auto;
+  cursor: pointer;
 `;
 
 const DropDownHeader = styled("div")`
